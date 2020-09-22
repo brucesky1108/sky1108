@@ -19,4 +19,4 @@
 ![中秋](1.jpg "中秋")
 
 
-[![歌曲](https://youtu.be/V0XUd8f2pz8?t=0/0.jpg)](https://youtu.be/V0XUd8f2pz8?t=0"歌曲")
+[![歌曲](https://img.youtube.com/vi/V0XUd8f2pz8/0.jpg)](https://www.youtube.com/watch?v=V0XUd8f2pz8"歌曲")
