@@ -11,6 +11,6 @@
 * 1
 * 2
 * 3
-[msn]（https://www.msn.com/zh-tw）
+[msn](https://www.msn.com/zh-tw)
 
 <https://www.msn.com/zh-tw>
