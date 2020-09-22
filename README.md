@@ -17,3 +17,6 @@
 <https://www.msn.com/zh-tw>
 
 ![中秋](1.jpg "中秋")
+
+
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=8tuzFSXeKI0/0.jpg)](https://www.youtube.com/watch?v=8tuzFSXeKI0 "Everything Is AWESOME")
