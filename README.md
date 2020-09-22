@@ -19,4 +19,4 @@
 ![中秋](1.jpg "中秋")
 
 
-[![Everything Is AWESOME] [(https://www.youtube.com/watch?v=8tuzFSXeKI0/0.jpg)](https://www.youtube.com/watch?v=8tuzFSXeKI0 "歌曲")
+[![Everything Is AWESOME](https://youtu.be/V0XUd8f2pz8/0.jpg)](https://youtu.be/V0XUd8f2pz8 "歌曲")
